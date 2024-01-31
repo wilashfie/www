@@ -1,4 +1,4 @@
 # www
 personal website.
 
-www.wilashfie.com
+wilashfie.com
